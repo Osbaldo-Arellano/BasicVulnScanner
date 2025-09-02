@@ -1,0 +1,1 @@
+To run: Python3 main.py
